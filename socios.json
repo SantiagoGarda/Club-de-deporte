@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Emanuel",
+    "lastName": "Ginobili",
+    "birthday": "23/7/1977",
+    "document": 32154789,
+    "phone": 223478963,
+    "memberSince": "29/3/2023",
+    "sport": 1
+  },
+  {
+    "name": "Pepe",
+    "lastName": "Argento",
+    "birthday": "23/5/1970",
+    "document": 32159753,
+    "phone": 11456321,
+    "memberSince": "29/3/2023",
+    "sport": 0
+  },
+  {
+    "name": "Cachalote",
+    "lastName": "Gutierres",
+    "birthday": "24/5/1995",
+    "document": 35456123,
+    "phone": 223654781,
+    "memberSince": "29/3/2023",
+    "sport": 2
+  },
+  {
+    "name": "Manuela",
+    "lastName": "Solana",
+    "birthday": "24/10/1998",
+    "document": 41258789,
+    "phone": 11652784,
+    "memberSince": "29/3/2023",
+    "sport": 5
+  },
+  {
+    "name": "Laura",
+    "lastName": "Martinez",
+    "birthday": "19/9/1985",
+    "document": 35456321,
+    "phone": 2281655223,
+    "memberSince": "29/3/2023",
+    "sport": 2
+  },
+  {
+    "name": "Horacio",
+    "lastName": "Roldan",
+    "birthday": "25/6/1984",
+    "document": 35652234,
+    "phone": 24945441123,
+    "memberSince": "29/3/2023",
+    "sport": 3
+  },
+  {
+    "name": "Pamela",
+    "lastName": "Martinez",
+    "birthday": "23/10/1997",
+    "document": 41235852,
+    "phone": 2281566339,
+    "memberSince": "29/3/2023",
+    "sport": 1
+  },
+  {
+    "name": "Enrique",
+    "lastName": "Gomez",
+    "birthday": "10/12/2004",
+    "document": 45213456,
+    "phone": 2281569637,
+    "memberSince": "29/3/2023",
+    "sport": 0
+  },
+  {
+    "name": "Paula",
+    "lastName": "Guimenez",
+    "birthday": "24/11/1987",
+    "document": 45967951,
+    "phone": 2281456852,
+    "memberSince": "29/3/2023",
+    "sport": 4
+  },
+  {
+    "name": "Rocio",
+    "lastName": "Rodriguez",
+    "birthday": "7/10/2005",
+    "document": 2284789654,
+    "phone": 11458563,
+    "memberSince": "29/3/2023",
+    "sport": 5
+  }
+]
